@@ -21,3 +21,4 @@ Project include following files:
 - cardata.py -> Module reponsible for calculations.
 - mainbody.py -> GUI structure.
 - webminer.py -> Module responsible for scraping data from website.
+- requirements.txt -> File with additional packages names needed to run scripts correctly.
